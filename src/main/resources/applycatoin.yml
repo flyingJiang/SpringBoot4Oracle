@@ -1,9 +1,0 @@
-spring:
-  jpa:
-    database: oracle
-    show-sql: true
-  datasource:
-    driver-class-name: oracle.jdbc.driver.OracleDriver
-    url: jdbc:oracle:thin:@ip:1521:dev
-    username: app_outpay
-    password: Test01C8!654321
